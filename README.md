@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,maven,dbeaver
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,maven,dbeaver
+# Created by https://www.toptal.com/developers/gitignore/api/eclipse,dbeaver,maven
+# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,dbeaver,maven
 
 ### DBeaver ###
 # ide config file
@@ -92,4 +92,4 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,maven,dbeaver
+# End of https://www.toptal.com/developers/gitignore/api/eclipse,dbeaver,maven
